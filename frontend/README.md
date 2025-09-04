@@ -1,12 +1,40 @@
-# React + Vite
+<h1>React URL Shortener</h1>
+This application is used to shorten long URLs and this application is bulit with React.This application is a frontend, this application make the shorten URLs works effectively.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>💻 Tech Stack </h1>
+<ul>
+  <li><b>Frontend</b>:React.js</li>
+  <li><b>Tooling</b>:Vite</li>
+  <li><b>Routing</b>:React Router</li>
+</ul>
 
-Currently, two official plugins are available:
+<h1>✨ Features</h1>
+<li><b>URL Shortening</b>: Convert any long URL into a short, easy-to-share link.</li>
+<li><b>Client-Side Redirection </b>: Shortened URLs are resolved and redirected to their original destination within the browser.</li>
+<li><b>Clipboard Integration</b>: Easily copy shortened URLs to the clipboard with a single click.</li>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<h2>Prereuisites</h2>
+<ul>
+  <li>Node.js</li>
+  <li>npm</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Installation
+Clone the repository:
+
+git clone [https://github.com/Saikumar0005/22FE1A4256.git](https://github.com/Saikumar0005/22FE1A4256.git)
+
+Navigate to the project directory:
+
+cd 22FE1A4256/frontend
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+The application should now be running at http://localhost:5173.
